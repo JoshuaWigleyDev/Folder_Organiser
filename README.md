@@ -1,6 +1,8 @@
 # Folder_Organiser
 A PowerShell script that creates a folder structure of (..\Processed\YYYY\MM\DD) based on the creation date time of the files within a source directory.
 
+Tested with directories containing 310,000, 89,000, and 60,000 files with a combination of drive paths e.g. C:\MessyDir and UNC Paths \\Server\MessyDir
+
 **This script takes up to 4 arguments:**
 1. Log Directory (UNC or Drive): User specified location where log file is stored and saves a transcript of the PS session. 
 2. Source Directory (UNC or Drive): User specified location where the files that need organising are located
