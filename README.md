@@ -20,19 +20,23 @@ A PowerShell script that creates a folder structure of (..\Processed\YYYY\MM\DD)
 
       ![image](https://user-images.githubusercontent.com/74862092/167416735-3766881b-7b11-4eb5-bd5e-a0f1c7ac6235.png)
 
-4. Specify the source location of your files:
+4. Specify the SOURCE location of your files:
+
+      ![image](https://user-images.githubusercontent.com/74862092/167426376-b85c15a7-6d19-4a77-91b0-f0b82d0eab34.png)
+
+5. Specify the DESTINATION location of your files:
 
       ![image](https://user-images.githubusercontent.com/74862092/167417044-86891c9a-a2f9-4384-b99e-5f2d7b01bbcd.png)
 
-5. Specify an extension (If you don't supply an extension, you will be prompted to confirm this is correct)
+6. Specify an extension (If you don't supply an extension, you will be prompted to confirm this is correct)
 
       ![image](https://user-images.githubusercontent.com/74862092/167417204-98c8337b-ab66-48c8-a001-e73457855550.png)
 
-6. The process will now begin to organise the folder
+7. The process will now begin to organise the folder
 
       ![image](https://user-images.githubusercontent.com/74862092/167417683-e5ed6dfe-b5b4-470a-a3eb-dcac5e40d2b5.png)
 
-7. Files have now been organised to the destination folder
+8. Files have now been organised to the destination folder
 
       ![image](https://user-images.githubusercontent.com/74862092/167417957-56c782f1-d5c1-486c-86db-62544fe967db.png)
 
